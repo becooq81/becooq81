@@ -1,3 +1,3 @@
 ![Jinny's GitHub stats](https://github-readme-stats.vercel.app/api?username=becooq81&show_icons=true&theme=radical) 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbecooq81&count_bg=%23F325DC&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=becooq81)](https://velog.io/@becooq81)
