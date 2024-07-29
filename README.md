@@ -1,5 +1,6 @@
 <div align="center">
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=becooq81)](https://solved.ac/becooq81/)
+
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=becooq81)](https://solved.ac/becooq81/)
 
 ![Jinny's GitHub stats](https://github-readme-stats.vercel.app/api?username=becooq81&show_icons=true&theme=radical) 
 <!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=becooq81)](https://solved.ac/becooq81/)-->
