@@ -31,7 +31,7 @@ PillKaBoo is a cross-platform mobile application that aims to assist blind and v
 
 <h3>Career PoolC 🤝</h3>
 
-Career PoolC is the official homepage for our programming club, where members come together to explore and advance their coding skills! We advanced the older version of the website.
+Career PoolC is the official homepage for our programming club, where members come together to explore and advance their coding skills! We advanced the older version of the website, by building new features such as notifications, messaging, anonymity, Baekjoon Online Judge synchronization, and badges. 
 
 - **Technology Stack**: Spring Boot (Java), PostgreSQL, Docker, AWS, GitHub Action
 - Check out our <a href="https://github.com/PoolC/Palkia" target="_blank">GitHub</a> and <a href="https://poolc.org/" target="_blank">Homepage</a>!
