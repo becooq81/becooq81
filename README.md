@@ -1,53 +1,44 @@
-<h2 align="center"> 
-    KANG HEEJIN
-    <br><br>
-    <a href="https://hits.seeyoufarm.com">
-        <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbecooq81&count_bg=%23B5E2FE&title_bg=%235098EA&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Hits Badge">
-    </a>
-</h2>
+<h1 align="center"> 
+    
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=Velog)](https://velog.io/@becooq81) 
+<a href="mailto:becooq81@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logoGmail&logoColor=white" ></a> KANG HEEJIN <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbecooq81&count_bg=%23B5E2FE&title_bg=%235098EA&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Hits Badge"></a>
+</h1>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=Velog)](https://velog.io/@becooq81)
+I’m a learning backend developer based in Seoul, South Korea, with a strong interest in building efficient and clean server-side solutions. As I embark on my journey in backend and frontend development, I’m excited to explore new technologies and grow my skills in a variety of fields.
 
 
+<h2>🚀 Technology Stack</h2>
 
-<br>
-<h2 align="center">Skills</h2>
- <p align="center">
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
-  <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+- **Programming Language**: Java, Python, C/C++, JavaScript, Go, Dart
+- **Framework, Libraries**: Spring Boot, Flutter, Django REST, Express.js, Bootstrap
+- **Database**: MySQL, PostgreSQL, MongoDB, SQLite
+- **Server, Deployment**: Google Cloud Platform, AWS, Docker
+- **OS**: Linux, macOS, Windows
+- **Collaboration**: GitHub, GitLab, Figma, Slack, Notion
+- **Version Control, CI/CD**: Git, GitHub Actions
 
-   <br>
-   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
-  <br>
+<h2>🛠️ Projects</h2>
 
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-    <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
-  <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
-  <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
-  <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+Explore some of my projects to see my work in action. Feel free to check out the details and reach out if you have any questions or collaborations in mind!
 
-  <br>
+<h3>PillKaBoo 💊 (Google Solution Challenge 2024)</h3> 
+PillKaBoo is a cross-platform mobile application that aims to assist blind and visually impaired individuals in safely and independently administering medication. 
 
-  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
-  <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
-   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <br>
-</p>
-<br>
-<h2 align="center">Statistics</h2>
-<h2 align="center">
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=becooq81">
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=becooq81" height="165">
-<br><br>
-  
-  ![깃허브 커밋 스택](https://streak-stats.demolab.com?user=becooq81&theme=transparent)
-    <br>
-</h3>
+- Meet us at <a href="https://apps.apple.com/kr/app/%EB%82%B4%EC%95%BD%EC%95%8C%EA%B8%B0/id6478358744" target="_blank">App Store</a> and <a href="https://play.google.com/store/apps/details?id=com.parkour.pillkaboo&hl=ko" target="_blank">Google Play</a> in South Korea! <br>
+
+- **Technology Stack**: Flutter (Dart), Go, Google Cloud Function, TensorFlow Lite, GitHub Action, GitHub Pages, HTML/CSS, JavaScript
+- Check out our <a href="https://github.com/becooq81/PillKaBoo-HomePage" target="_blank">GitHub</a> and <a href="https://parkourapp.dev/" target="_blank">Homepage</a>!
+
+<h3>Career PoolC 🤝</h3>
+
+Career PoolC is the official homepage for our programming club, where members come together to explore and advance their coding skills! We advanced the older version of the website.
+
+- **Technology Stack**: Spring Boot (Java), PostgreSQL, Docker, AWS, GitHub Action
+- Check out our <a href="https://github.com/PoolC/Palkia" target="_blank">GitHub</a> and <a href="https://poolc.org/" target="_blank">Homepage</a>!
+
+<h2>Statistics</h2>
+<div align='center'>
+<img src="https://streak-stats.demolab.com?user=becooq81&theme=transparent" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=becooq81" height="165">
+</div>
 </p>
