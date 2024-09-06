@@ -36,7 +36,7 @@ Career PoolC is the official homepage for our programming club, where members co
 - **Technology Stack**: Spring Boot (Java), PostgreSQL, Docker, AWS, GitHub Action
 - Check out our <a href="https://github.com/PoolC/Palkia" target="_blank">GitHub</a> and <a href="https://poolc.org/" target="_blank">Homepage</a>!
 
-<h2>Statistics</h2>
+<h2>📊 Statistics</h2>
 <div align='center'>
 <img src="https://streak-stats.demolab.com?user=becooq81&theme=transparent" height="165">
 <img src="https://github-readme-stats.vercel.app/api?username=becooq81" height="165">
