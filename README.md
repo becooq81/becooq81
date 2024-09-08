@@ -4,7 +4,7 @@
 <a href="mailto:becooq81@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logoGmail&logoColor=white" ></a> KANG HEEJIN <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbecooq81&count_bg=%23B5E2FE&title_bg=%235098EA&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Hits Badge"></a>
 </h1>
 
-I’m a learning backend developer based in Seoul, South Korea, with a strong interest in building efficient and clean server-side solutions. As I embark on my journey in backend and frontend development, I’m excited to explore new technologies and grow my skills in a variety of fields.
+I’m a learning backend developer based in Seoul, South Korea, with a strong interest in building efficient and clean server-side solutions. As I embark on my journey in backend and frontend development, I’m excited to explore new technologies and grow my skills in a variety of fields! :)
 
 
 <h2>🚀 Technology Stack</h2>
