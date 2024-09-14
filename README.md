@@ -15,7 +15,7 @@ I’m a learning backend developer based in Seoul, South Korea, with a strong in
 - **Server, Deployment**: Google Cloud Platform, AWS, Docker
 - **OS**: Linux, macOS, Windows
 - **Collaboration**: GitHub, GitLab, Figma, Slack, Notion
-- **Version Control, CI/CD**: Git, GitHub Actions
+- **Version Control, CI/CD**: Git, GitLab, GitHub Actions
 
 <h2>🛠️ Projects</h2>
 
